@@ -43,7 +43,7 @@
 
 ## 🚀 Career path
 
-In QA since **October 2015**: from my first remote QA role to Senior SDET leading AI/ML quality.
+In QA since **October 2015**: from my first remote QA role to Lead/Senior SDET leading AI/ML quality.
 
 ```mermaid
 timeline
