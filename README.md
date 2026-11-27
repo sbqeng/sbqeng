@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/sviatoslavbordovskyi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
   <a href="https://sbqeng.github.io/"><img src="https://img.shields.io/badge/Website-sbqeng.github.io-0E75B6?style=for-the-badge" alt="Website"/></a>
   <a href="https://www.upwork.com/freelancers/~01c8861424212f2c39"><img src="https://img.shields.io/badge/Hire%20me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
-  <a href="https://sbqeng.github.io/static/files/Sviatoslav%20Bordovskyi%20Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-D14836?style=for-the-badge" alt="Resume"/></a>
+  <a href="https://github.com/sbqeng/sbqeng.github.io/blob/51b3d66821c224a2b01e9e184aa36147f5ccbc48/static/files/Sviatoslav_Bordovskyi_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-D14836?style=for-the-badge" alt="Resume"/></a>
   <a href="https://x.com/sbordovskyi"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=black"/>
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
